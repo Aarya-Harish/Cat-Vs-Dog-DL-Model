@@ -4,7 +4,7 @@ This project demonstrates how to build a binary image classifier using Convoluti
 
 ## 📁 Dataset
 
-- **Source**: [Kaggle - Cat and Dog Dataset](https://www.kaggle.com/datasets)
+- **Source**: [Kaggle - Cat and Dog Dataset](https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat-classification-dataset)
 - **Path Used**: `/kaggle/input/dog-and-cat-classification-dataset/PetImages`
 - The dataset contains two folders: `Cat` and `Dog`
 
